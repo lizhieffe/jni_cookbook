@@ -1,0 +1,9 @@
+*.swp
+
+CMakeCache.txt
+
+CMakeFiles/
+
+*.cmake
+
+tags
